@@ -8,8 +8,7 @@ Download Video From
 
 
 # Check All Updates Here: 
-[https://github.com/theofficialvkr/VKRdownloader/blob/main/updates.md](https://github.com/theofficialvkr/VKRdownloader/blob/main/updates.md)
-
+https://t.me/method_shop
 
 # How To Install 
 
@@ -25,7 +24,7 @@ Open Your Site And it start Working ....
 
 
 # Demo : 
-https://theofficialvkr.github.io/VKRdownloader/
+https://github.com/ziddi-shop/allvideodownload.git
 
 # For Any kind of Help 
 
