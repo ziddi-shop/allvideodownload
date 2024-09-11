@@ -1,6 +1,6 @@
-# VKrDownloader 
+# allvideodownload 
 
-Video Downloader by  Vijay Kumar @TheOfficialVKr ....
+Video Downloader by  ziddi shop @ziddi-shop ....
 
 Download Video From
 <li> YouTube </li> <li>  Facebook  </li> <li> Twitter  </li> <li> Instagram (reel)  </li> <li> TikTok  </li> <li>And  1000+ Other Website in All Audio / Video Quality ...
@@ -30,17 +30,13 @@ https://theofficialvkr.github.io/VKRdownloader/
 # For Any kind of Help 
 
 
-Contact me On Mail      :  <li>contactvkr@yahoo.com   </li> 
+Contact me On Mail      :  <li>shehzadakingziddi@gmail.com   </li> 
 Or On Social media 
   <li>
-<a href="https://instagram.com/theofficialvkr"> 
-Instagram </a>
+<a href="https://t.me/method_shop"> 
+More Tools </a>
  </li> <li>
-<a href="https://twitter.com/theofficialvkr"> 
-Twitter </a> </li> <li>
-  <a href="https://facebook.com/theofficialvkr"> 
-Facebook </a> </li> <li>
-  <a href="https://t.me/theofficialvkr"> 
+  <a href="https://t.me/ziddi_beatz1"> 
 Telegram  </a> </li> <li>
 
 
